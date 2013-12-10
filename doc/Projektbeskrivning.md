@@ -1,29 +1,31 @@
-
 # Projektnamn här
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[as223jx](https://github.com/as223jx), [mh223ci](https://github.com/mh223ci), [jn222na](https://github.com/jn222na)
+Målerifirman Företaget AB
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
+#Vad är det för produkt, webbplats, ni ska skapa.
 
-[Körbar version av projektet](http://tstjostudent.github.io/Projektet)
+Vi ska göra en webbplats åt en målerifirma. 
 
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
+#Hur ska webbplatsen skapas? Vilka tekniker kommer att användas?
 
-## Beskrivning av projektet
-*En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+Teknikerna som kommer att användas är CSS, HTML och JavaScript till bildslidern.
 
-## Tekniker
-*Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
+#Eventuella begränsningar av projektet.
 
-## Begränsningar
-*Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
+Vi kommer ej kunna ha någon databas så informationen som skickas in i formuläret kommer inte att tas vara på. 
 
-## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
+#Eventuellt redan existerande prototyp som projektet grundar sig på. Beskriv även eventuella förstudier som gjorts utanför ramarna för denna kurs.
 
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
+Tanken är att utgå från en tidigare mall som Joakim jobbat med.
 
-## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+#Namn, personnummer och användarnamn på de studenter som ingår i projektgruppen.
+
+Alexandra Seppänen, 930826-9209, as223jx
+Mathias Holmqvist, 930527-7213, mh223ci
+Joakim Nilsson, 931031-3854, jn222na
+
+#Någon form av tidsplanering. När ska ni göra vad?
+
+https://docs.google.com/spreadsheet/ccc?key=0AquOnQSpFmSPdE5vbkZlVU5fU3Ridjc1bHVkbDFlMFE&usp=drive_web#gid=0
 
